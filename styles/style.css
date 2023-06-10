@@ -3,3 +3,7 @@ h1,h2,h3{
 font-family: 'Fjalla One', sans-serif;
 font-family: 'Source Code Pro', monospace;
 }
+li a{
+    color: goldenrod;
+    text-decoration:none;
+}
